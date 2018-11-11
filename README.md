@@ -8,4 +8,4 @@ Notebooks ipython contendo notações para apresentar conceitos básicos de pyth
 
 ## 02 - Introdução a Machine Learning
 ### Modelo de Aprovação de Empréstimos
-Notebook ipython contendo demonstração de um processo de treinamento e modelagem de classificação com machine learning
+Notebook ipython contendo demonstração de um processo de treinamento e modelagem de classificação com machine learning.
