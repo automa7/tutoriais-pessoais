@@ -10,5 +10,5 @@ Notebooks jupyter contendo notações para apresentar conceitos básicos de pyth
 ### Modelo de Aprovação de Empréstimos
 Notebook jupyter contendo demonstração de um processo de treinamento e modelagem de classificação com machine learning.
 
-### Modelo de Previsão de Preso de Imóveis
+### Modelo de Previsão de Preço de Imóveis
 Notebook jupyter contendo demonstração de um processo de treinamento e modelagem de regressão com machine learning.
