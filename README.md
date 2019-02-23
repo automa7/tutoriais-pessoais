@@ -12,3 +12,6 @@ Notebook jupyter contendo demonstração de um processo de treinamento e modelag
 
 ### Modelo de Previsão de Preço de Imóveis
 Notebook jupyter contendo demonstração de um processo de treinamento e modelagem de regressão com machine learning.
+
+## 03 - Introdução ao C#
+Arquivos de código fonte de classes C# demonstrando os conceitos básicos da linguagem.
