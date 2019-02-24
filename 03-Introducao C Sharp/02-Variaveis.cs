@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConceitosBasicos
+namespace _03_CSharpIntro
 {
     public class Variaveis
     {
