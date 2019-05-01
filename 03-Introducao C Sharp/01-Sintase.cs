@@ -8,7 +8,7 @@ using System; // importação de "pacotes" de classes são feitas com o comando 
 
 namespace _03_CSharpIntro // name space são "containers", e definem um nível superior de escopo
 {
-    class Sintase // Classes são definidas dessa maneira
+    class Sintase // Classes são sub-containers de um namespace que podem ser importadas
 
     { // chaves são postas abaixo da linha de definição para separação do código
 

@@ -95,7 +95,7 @@ namespace _03_CSharpIntro
             const int num1 = 42;
             const string nome = "Seu Nome";
 
-            void Main(string[] args)
+            void Main(string[] args2)
             {
                 Console.WriteLine(nome + " é uma constante.");
 

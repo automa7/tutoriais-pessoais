@@ -53,6 +53,7 @@ namespace _03_CSharpIntro
         static void TryECatch(string[] args)
         {
             Console.WriteLine("Digite um numero: ");
+            
             string input = Console.ReadLine();
 
             // Para garantir que a conversão de string para numero não apresente erro, utilizamos Try Catch
@@ -74,6 +75,30 @@ namespace _03_CSharpIntro
                 // Pode ser usado para coisas como fechar conexão de dados;
             }
 
+            Console.Read();
+        }
+
+        // TryParse
+        static void TryParse_(string[] args)
+        {
+            // É possivel fazer verificações de tipo de variavel através do try parse.
+            // Por exemplo, se o input for um número, mas o usuário inserir uma string
+            // Será necessário efetuar um try parse antes de trabalhar com a variável
+
+            Console.WriteLine("Digite um numero:");
+            string input = Console.ReadLine();
+
+            int numero;
+
+            // O parametro out define que se o parse for bem sucedido, ele atribui o valor a variavel numero
+            bool testa_numero = int.TryParse(input, out numero);
+            
+            if(!testa_numero)
+            {
+                Console.WriteLine("Valor informado não é um número.");
+            }
+
+            Console.Read();
         }
 
         // Métodos operadores e comparativos
